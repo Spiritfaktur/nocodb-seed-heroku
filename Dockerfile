@@ -1,3 +1,3 @@
-FROM nocodb/nocodb:0.207.3
+FROM nocodb/nocodb:latest
 
 ENTRYPOINT ["sh", "/usr/src/appEntry/start.sh"]
