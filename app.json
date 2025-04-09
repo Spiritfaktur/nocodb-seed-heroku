@@ -1,12 +1,12 @@
 {
-  "name": "nocodb",
-  "description": "Create APIs at the speed of thoughts",
-  "logo": "https://nocodb.com/brand/favicon-64.png",
+  "name": "eviDB",
+  "description": "elevator intelligence",
+  "logo": "https://cdn.prod.website-files.com/5ee55fb6fff23df33b7259c1/6717e21c82a396e17c5c22e4_evi%20logo.svg",
   "keywords": [
-    "nocodb"
+    "evi"
   ],
   "success_url": "/dashboard",
-  "website": "https://nocodb.com",
+  "website": "https://ev-i.ai",
   "repository": "https://github.com/nocodb/nocodb-seed-heroku",
   "formation": {
     "web": {
